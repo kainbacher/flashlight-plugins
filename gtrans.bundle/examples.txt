@@ -1,0 +1,2 @@
+gtrans ~transquery(hello world)
+trans ~transquery(hello world)

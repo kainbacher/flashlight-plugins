@@ -1,0 +1,7 @@
+{
+	"name": "trans",
+	"displayName": "Google Translate",
+	"description": "Translate a message",
+	"examples": ["foo",],
+	"categories": ["Language"]
+}
