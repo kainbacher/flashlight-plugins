@@ -11,8 +11,16 @@ That's is!
 # Plugins
 
 ### gtrans.bunle
-- trans {your string}
+- trans {string}
 - opens google.com/translate
 
+### doc-webdev
+- docpy {string}
+- docdj {string}
+- dochtml {string}d)
+- doccss {string})
+- docjq {string}
+- docng {string}
 
+icon by http://www.oxygen-icons.org/
 
