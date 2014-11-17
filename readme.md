@@ -1,4 +1,4 @@
-# My Flashlight Plugin
+# Flashlight Plugins
 
 Big thanks to Nate Parrott(https://twitter.com/nateparrott) for the awsome Flashlight (https://github.com/nate-parrott/Flashlight).
 
