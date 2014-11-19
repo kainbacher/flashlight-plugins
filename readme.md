@@ -6,11 +6,11 @@ Big thanks to [Nate Parrott](https://twitter.com/nateparrott) for the awesome [F
 - Install [Flashlight](https://github.com/nate-parrott/Flashlight)
 - Copy the .bundle into ~/Library/FlashlightPlugins/ 
 
-That's is!
+That's it!
 
 # Plugins
 
-### gtrans.bunle
+### gtrans.bundle
 - trans {string}
 - opens google.com/translate
 
